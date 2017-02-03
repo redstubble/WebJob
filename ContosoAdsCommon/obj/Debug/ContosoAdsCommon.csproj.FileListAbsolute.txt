@@ -1,0 +1,10 @@
+C:\Users\jwilliams\Documents\01. Work\02. Code\WebJobsApp\C#\ContosoAdsCommon\bin\Debug\ContosoAdsCommon.dll.config
+C:\Users\jwilliams\Documents\01. Work\02. Code\WebJobsApp\C#\ContosoAdsCommon\bin\Debug\ContosoAdsCommon.dll
+C:\Users\jwilliams\Documents\01. Work\02. Code\WebJobsApp\C#\ContosoAdsCommon\bin\Debug\ContosoAdsCommon.pdb
+C:\Users\jwilliams\Documents\01. Work\02. Code\WebJobsApp\C#\ContosoAdsCommon\bin\Debug\EntityFramework.dll
+C:\Users\jwilliams\Documents\01. Work\02. Code\WebJobsApp\C#\ContosoAdsCommon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jwilliams\Documents\01. Work\02. Code\WebJobsApp\C#\ContosoAdsCommon\bin\Debug\EntityFramework.xml
+C:\Users\jwilliams\Documents\01. Work\02. Code\WebJobsApp\C#\ContosoAdsCommon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jwilliams\Documents\01. Work\02. Code\WebJobsApp\C#\ContosoAdsCommon\obj\Debug\ContosoAdsCommon.csprojResolveAssemblyReference.cache
+C:\Users\jwilliams\Documents\01. Work\02. Code\WebJobsApp\C#\ContosoAdsCommon\obj\Debug\ContosoAdsCommon.dll
+C:\Users\jwilliams\Documents\01. Work\02. Code\WebJobsApp\C#\ContosoAdsCommon\obj\Debug\ContosoAdsCommon.pdb
